@@ -4,8 +4,6 @@ If you want to close down your Collective, you can either archive or delete it. 
 
 Navigate to your Collective's Dashboard > Settings > Advanced.&#x20;
 
-<figure><img src="../../.gitbook/assets/Untitled design (13).png" alt=""><figcaption></figcaption></figure>
-
 ## Delete a Collective
 
 If your Collective does not have any transactions or financial activity, you can delete it. Deleting a Collective will remove its data, including memberships, payment methods, etc.
