@@ -1,9 +1,5 @@
 # Zero Collective Balance
 
-{% hint style="danger" %}
-With the implementation of the new [Dashboard interface](https://docs.opencollective.com/help/product/understanding-your-dashboard), we are currently in the process of updating our documentation and some pages may be out of date. Thank you for your patience. Please [contact](https://opencollective.com/contact) our support team if you need any assistance.
-{% endhint %}
-
 Before [changing hosts](../add-fiscal-host.md#changing-fiscal-host) or [closing a Collective](closing-a-collective.md), the balance must be at zero.
 
 You can move money out of your Collective in several ways:
