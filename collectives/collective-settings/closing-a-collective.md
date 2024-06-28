@@ -1,18 +1,10 @@
 # Closing a Collective
 
-{% hint style="danger" %}
-With the implementation of the new [Dashboard interface](https://docs.opencollective.com/help/product/understanding-your-dashboard), we are currently in the process of updating our documentation and some pages may be out of date. Thank you for your patience. Please [contact](https://opencollective.com/contact) our support team if you need any assistance.
-{% endhint %}
-
 If you want to close down your Collective, you can either archive or delete it. Either way, you first need to [zero the balance](zero-collective-balance.md).
 
-Go to your Collective's page, click on the setting button on the right of your profile.
+Navigate to your Collective's Dashboard > Settings > Advanced.&#x20;
 
-<figure><img src="../../.gitbook/assets/Collectives_Settings_closing_2022-08-22.png" alt=""><figcaption></figcaption></figure>
-
-Head to the **Advanced** page to access those options.
-
-![](../../.gitbook/assets/collectives\_closing-a-collective\_advanced.png)
+<figure><img src="../../.gitbook/assets/Untitled design (13).png" alt=""><figcaption></figcaption></figure>
 
 ## Delete a Collective
 
