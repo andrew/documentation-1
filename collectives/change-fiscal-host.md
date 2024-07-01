@@ -1,9 +1,5 @@
 # Change Fiscal Host
 
-{% hint style="danger" %}
-With the implementation of the new [Dashboard interface](https://docs.opencollective.com/help/product/understanding-your-dashboard), we are currently in the process of updating our documentation and some pages may be out of date. Thank you for your patience. Please [contact](https://opencollective.com/contact) our support team if you need any assistance.
-{% endhint %}
-
 You can change the fiscal host of your Collective to a different existing host, or start your own host and move it there.
 
 {% hint style="warning" %}
@@ -44,7 +40,7 @@ The new host should file an expense for the collective to withdraw the funds int
 
 **1.** [Zero the balance](collective-settings/zero-collective-balance.md) of your Collective
 
-**2.** Go to your Collective page, click on the gear icon and head to the Fiscal Host page.
+**2.** Navigate to your Collectives Dashboard > Settings > Fiscal Host&#x20;
 
 **3.** Remove your current Fiscal Host.
 
