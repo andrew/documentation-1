@@ -131,7 +131,7 @@ Being part of a community includes recognizing how your actions affect others an
 
 ### Explicit Content
 
-We do not host, support, or otherwise engage with providers and purveyours of explicit content.
+We do not host, support, or otherwise engage with providers and purveyors of explicit content.
 
 ## What happens if someone breaks the rules <a href="#docs-internal-guid-c5686783-7fff-9f04-2189-1af694041580" id="docs-internal-guid-c5686783-7fff-9f04-2189-1af694041580"></a>
 
