@@ -129,6 +129,10 @@ We consider context to be important in how information is received and understoo
 
 Being part of a community includes recognizing how your actions affect others and engaging in meaningful and productive interactions. Behaviors such as spamming, scamming, fraud, impersonation, dishonesty, unsolicited or unauthorized self-promotion, repeatedly posting off-topic materials, or using any platform feature in a way that continually disrupts the experience of other users is not allowed.
 
+### Explicit Content
+
+We do not host, support, or otherwise engage with providers and purveyours of explicit content.
+
 ## What happens if someone breaks the rules <a href="#docs-internal-guid-c5686783-7fff-9f04-2189-1af694041580" id="docs-internal-guid-c5686783-7fff-9f04-2189-1af694041580"></a>
 
 ### Reporting violations <a href="#docs-internal-guid-aa5140e4-7fff-c89d-34f3-1af1e8876080" id="docs-internal-guid-aa5140e4-7fff-c89d-34f3-1af1e8876080"></a>
