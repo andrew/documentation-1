@@ -10,15 +10,16 @@ description: >-
 
 As a fiscal host admin, you can define your chart of accounts by navigating to **Dashboard > Settings > Chart of accounts**. The table will let you add, remove, and edit entries.
 
-* `Category Kind`: Indicate whether the Chart of Accounts is for Expenses or Contributions
-* `Host Only`: Only display the category to Host Admins
-* `Expense Types`: Indicate under what expense types the category will show i.e All expenses, Virtual Card Charge, Grant, Invoice, Reimbursement, Settlement, Unclassified
-* `Category Name`: A name for you to identify the accounting category
-* `Friendly name`(optional): An alternative name to show to expense submitters and collective admins in case the one from your chart of accounts is not clear enough
-* `Accounting Code`: The unique accounting category code from your Chart Of Accounts. This code won't be displayed to expense submitters and collective admins
+* `Accounting Code`: The unique accounting category code from your Chart Of Accounts. This code won't be displayed to expense submitters and collective admins.
+* `Category Name`: A name for you to identify the accounting category.
+* `Friendly name`(optional): An alternative name to show to expense submitters and collective admins in case the one from your chart of accounts is not clear enough.
+* `Applies to`: Define whether the accounting category applies to your managed funds (money held on behalf of collectives) or operational funds (the host organization).&#x20;
+* `Category Kind`: Indicate whether the Chart of Accounts is for Expenses or Contributions.
+* `Host Only`: Only display the category to Host Admins.
+* `Expense Types`: Indicate under what expense types the category will show i.e All expenses, Virtual Card Charge, Grant, Invoice, Reimbursement, Settlement, Unclassified.
 * `Instructions`: Specify further information to help with the categorization process.
 
-<figure><img src="../../.gitbook/assets/Untitled design (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-07-15 at 7.34.48 PM.png" alt=""><figcaption></figcaption></figure>
 
 ## Contribution Categorization
 
