@@ -1,38 +1,34 @@
 # Add Funds Manually
 
-{% hint style="danger" %}
-With the implementation of the new [Dashboard interface](https://docs.opencollective.com/help/product/understanding-your-dashboard), we are currently in the process of updating our documentation and some pages may be out of date. Thank you for your patience. Please [contact](https://opencollective.com/contact) our support team if you need any assistance.
-{% endhint %}
-
 You can manually add funds to a Collective directly. This is useful when you receive a contribution for a Collective outside the Open Collective system (like a bank transfer) and want to apply it to a Collective's budget, or to represent money you're already holding on the platform.
 
-Log in and go to your [Fiscal Host dashboard](../fiscal-host-dashboard/). Click on the **Hosted Collectives** tab.
+Navigate to your Dashboard > Collectives.&#x20;
 
-![An overview of your Fiscal Host dashboard. The Hosted Collectives tab is the last one listed.](../../.gitbook/assets/fiscal-hosts-add-funds-manually-hosted-collectives-2020-09-18.png)
+<figure><img src="../../.gitbook/assets/Untitled design (15).png" alt=""><figcaption></figcaption></figure>
 
-Use the search bar to find the Collective you want to add funds for.
+Locate the Collective you'd like to add funds to. Click on the three dots and then the **Add Funds** button.
 
-![Using the search bar to find the right Collective.](../../.gitbook/assets/fiscal-hosts-add-funds-manually-search-bar-2020-09-20.gif)
+<figure><img src="../../.gitbook/assets/Screenshot 2024-07-24 at 1.48.13 PM.png" alt=""><figcaption></figcaption></figure>
 
-Click on the **Add Funds** button.
+And fill the form with all required information to add the funds to that Collective with the following information:
 
-![After finding the right Collective, clicking on the Add Funds button will open the right form.](<../../.gitbook/assets/fiscal-hosts-add-funds-manually-add-funds-2020-09-20 (1).gif>)
+<figure><img src="../../.gitbook/assets/Untitled design (1) (2).png" alt=""><figcaption></figcaption></figure>
 
-And fill the form with all required information to add the funds to that Collective with the following information:\
-\
-
-
-<figure><img src="../../.gitbook/assets/Screenshot 2023-09-04 at 16.12.11.png" alt=""><figcaption><p>Adding funds to a Collective</p></figcaption></figure>
-
-* The source of the funds, and the tier to which the donation applies (if any)
+* The **source** of those funds. It can be your Fiscal Host, another Collective, or an Organization. &#x20;
+* The Collective's tier to which the donation applies (if any)
+* A short **description** of those funds.
+* The **effective date** of which the funds cleared your bank account.&#x20;
+* The **Accounting Category** to categorise your accounts
+* An **internal memo** used by other host administrators.
 * The **amount** of funds you want to send to a Collective.
 * Your **host fee**, which is the fee you charge your Collectives. It's already set to your default, but you can change it to a one-time fee of your preference.
-* A short **description** of those funds.
-* An **internal memo** used by other host administrators.
-* The date the funds were accepted.
-* The **source** of those funds. It can be your Fiscal Host, another Collective, or an Organization.
+* Any **payment processor fees** that need to be included.&#x20;
+*
+*
+*
+*
 
-Once you're done, just click on **Add Funds**.
+Once you're done, click **Add Funds**.
 
 ### Internal Memos
 
