@@ -24,13 +24,13 @@ Usually transactions are created in groups that have a shared context. For examp
 2. A pair of PAYMENT PROCESSOR FEE transactions.
 3. A pair of HOST FEE transactions
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Ledger Perspectives
 
 Different users sees a different perspective of the same ledger. The perspective a user sees depends on the account through which they are looking at the ledger. Typically each account sees only transactions related to it. Fiscal hosts are an exception since they see both their own transactions and the transactions of the collectives they host.In the above contribution example, the contributor will see just one transaction - their contribution debited from their account:
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 A collective admin will see three transactions which correctly represent the contribution and two fees - resulting in a net $8.50 for the collective:
 

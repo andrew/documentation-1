@@ -164,7 +164,11 @@ It's easier for companies to budget services for the year. It also ensures that 
 
 #### What happens if I delete a tier?
 
-If you delete a tier that has recurring contributing members, you will continue to receive contributions from those members. These donations will appear as "custom contributions".&#x20;
+If you delete a tier you  will be given the option of continuing the recurring contributions for that tier.&#x20;
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+These donations will appear under your "custom contributions" Tier.&#x20;
 
 Members will need to stop recurring payments from their accounts. Here is more information on how to [cancel a recurring contribution](https://docs.opencollective.com/help/financial-contributors/payments#cancel-a-recurring-contribution).
 
