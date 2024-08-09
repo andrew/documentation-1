@@ -16,7 +16,7 @@ Open Collective has the technical ability to process refunds for the following:
 * Event tickets
 * Balance transfers
 
-**Refunds via Open Collective are not possible for:**
+Refunds via Open Collective are not possible for:
 
 * Expenses (Invoices/Reimbursements/Grants). Please coordinate with the expense payer or payee regarding the return of any expense.
 
@@ -57,7 +57,7 @@ If the funds were sent via a payment method not connected to Open Collective e.g
 
 Open Collective does not charge additional fees for refunds; however, the person requesting a refund may incur additional costs from the payment provider.
 
-8. Communication/Initiating a Refund:
+8. **Communication/Initiating a Refund:**
 
 * Individuals seeking refunds should first contact the Collective and/or the Fiscal Host directly. If necessary Open Collective can help direct them to their contact details.
 * If Open Collective receives a request for a refund, without evidence that you have reached out to the recipient, we will redirect the requester to contact the recipient directly.
