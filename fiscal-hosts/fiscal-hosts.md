@@ -27,7 +27,7 @@ Below are the hosts that Open Collective manages, plus some more examples.
 | [Open Collective NZ](https://opencollective.com/ocnz)                   | NZ social enterprise fundholder      | 5.75% |
 | [Women Who Code](https://opencollective.com/wwcodeinc)                  | Local chapters                       | 10%   |
 | [All For Climate](https://opencollective.com/allforclimate)             | Climate and social justice in Europe | 3%    |
-| [Social Change Nest](https://opencollective.com/the-social-change-nest) | UK social impact initiatives         | 4%    |
+| [Social Change Nest](https://opencollective.com/the-social-change-nest) | UK social impact initiatives         | 5%    |
 
 ### Why are there different Fiscal Hosts?
 
