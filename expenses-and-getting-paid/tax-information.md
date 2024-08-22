@@ -2,7 +2,7 @@
 
 ## For Expense Payees of US Fiscal Hosts
 
-United States regulations require US entities to collect certain information from payees for tax reporting purposes, even if the payee is outside the US. If you submit invoice [expenses](expenses.md) for more than $600 USD per year to a Collective with a [Fiscal Host](../fiscal-hosts/fiscal-hosts.md) in the US, you will be asked to fill out a tax information form.
+United States regulations require US entities to collect certain information from payees for tax reporting purposes, even if the payee is outside the US. If you submit invoice [expenses](expenses.md) for $600 USD or more per year to a Collective with a [Fiscal Host](../fiscal-hosts/fiscal-hosts.md) in the US, you will be asked to fill out a tax information form.
 
 ### Which expenses count?
 
