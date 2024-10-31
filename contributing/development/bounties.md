@@ -45,7 +45,7 @@ We want to attract quality contributions. The issue will only be considered comp
 4. Incorporate feedback from [Core Developers](https://docs.opencollective.com/help/about/team), if applicable
 5. PR is reviewed, approved, and merged by a [Core Developer](https://docs.opencollective.com/help/about/team)
 6. Get paid:
-   * If you can issue an invoice, submit it as expense to [Open Collective Engineering](https://opencollective.com/engineering)
+   * If you can issue an invoice, submit it as expense to [Ofitech](https://opencollective.com/ofitech/expenses/new).
    * If you can't issue an invoice, ask to be rewarded with an Open Collective Gift Card
 
 _See_ [_more info about getting paid_](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses) _through Open Collective_
