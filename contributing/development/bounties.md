@@ -56,6 +56,13 @@ Issues tagged as "**bounty candidate**" are issues that we are considering to ad
 **Financial compensation can only happen if the issue has a "bounty" tag with a pre-defined amount.** In other words, completing a bounty candidate that didn't receive the "bounty" tag will not make you eligible for the bounty program.
 {% endhint %}
 
+#### Supported payment options
+
+The options supported for paying bounties are the ones supported by [Ofitech](https://opencollective.com/ofitech), namely:
+
+* PayPal
+* Bank account transfers (to countries not in the US sanctioned list)
+
 #### Workflow for Core Contributors
 
 1. Make sure the issue is understandable for newcomers and expectations are clearly set
