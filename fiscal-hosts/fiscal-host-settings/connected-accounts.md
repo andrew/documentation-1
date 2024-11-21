@@ -6,18 +6,6 @@ description: >-
 
 # Connect external accounts
 
-## Connecting a Twitter account
-
-Click on **Connect Twitter**. You will be prompted to either directly authorize Open Collective to access your account or to log in and authorize it.
-
-Connecting your account will provide you a few automation options based on how many financial contributors Collectives you host have reached:
-
-![Options for activating automated tweets whenever a Collective you host reach 10, 100 and 1,000 financial contributors.](../../.gitbook/assets/fiscal-host\_fiscal-host-settings\_settings-connected-accounts-settings\_2020-07-13.png)
-
-To use a template parameter, put it in brackets like this: `{collective}`. Here are the parameters supported by each template:
-
-<table><thead><tr><th>Parameter</th><th width="240.33333333333331">Templates</th><th>Description</th><th>Example</th></tr></thead><tbody><tr><td><code>backerTwitterHandle</code></td><td>New financial contributors</td><td>Twitter Handle of the contributor without the <code>@</code> prefix (can be empty)</td><td><code>myUsername</code></td></tr><tr><td><code>amount</code></td><td>New financial contributors</td><td>Contribution amount with the currency</td><td><code>$10.00</code></td></tr><tr><td><code>collective</code></td><td>Ten contributors<br>Fifty contributors<br>One hundred contributors<br></td><td>Either the collective name or, if set, the Twitter handle prefixed with an <code>@</code></td><td><code>@babel</code></td></tr><tr><td><code>topBackersTwitterHandles</code></td><td>Ten contributors</td><td>Top 10 contributors names or handles</td><td>Facebook, @airbnb, company3, joe, @anotherAccount, anotherAccount2, anotherAccount3, anotherAccount4, anotherAccount5, anotherAccount6, +6</td></tr></tbody></table>
-
 ## Receiving contributions through PayPal
 
 {% hint style="info" %}
