@@ -26,10 +26,3 @@ While creating the webhook, you'll be able (in some cases) to preview the payloa
 
 For Mattermost or Gitter, first set up a webhook as described above, and then [send it to us](https://opencollective.com/support) and we'll add the hook to our platform.
 
-## Twitter Integration
-
-Connect your Twitter to automatically thank new supporters who contribute to your Collective! To do so, go to your Collective page, click on the gear icon, and head to the **Connected Accounts** page.
-
-![](../../.gitbook/assets/collectives\_integrations\_connected-accounts.png)
-
-![](../../.gitbook/assets/connect-twitter.png)
