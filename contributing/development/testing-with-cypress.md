@@ -41,7 +41,7 @@ Note that addresses formatted like `test*@opencollective.com` are a special case
 Create an account and login with it. If no params is provided, the account will be created with a random email.
 
 {% hint style="info" %}
-**`cy.createCollective({ type` = 'ORGANIZATION'`, email =`defaultTestUserEmai**l**`})`**
+**`cy.createCollective({ type` = 'ORGANIZATION'`, email =`defaultTestUserEmai**&#x6C;**`})`**
 {% endhint %}
 
 Helper to quickly create a collective that use designated by `email` will be an admin of.

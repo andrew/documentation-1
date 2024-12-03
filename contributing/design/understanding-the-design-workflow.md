@@ -6,7 +6,7 @@ description: General knowledge intended to understand the workflow of OpenCollec
 
 ## Mapping our process
 
-The process to open-up the design collective is based on a specific concept**:**
+The process to open-up the design collective is based on a specific concep&#x74;**:**
 
 **Clarity and transparency in the design process.**
 

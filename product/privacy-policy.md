@@ -75,7 +75,7 @@ You may update the profile information you provide by logging into your online a
 
 ### **Cookies**
 
-Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Services**.**
+Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Service&#x73;**.**
 
 ### **Promotional Communications**
 

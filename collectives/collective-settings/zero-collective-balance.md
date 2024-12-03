@@ -6,7 +6,7 @@ You can move money out of your Collective in several ways:
 
 * [Submitting expenses](../../expenses-and-getting-paid/submitting-expenses/) to withdraw funds.
 * [Donating to another Collective](../../financial-contributors/collective-to-collective.md) in the same fiscal host.
-* Giving the remaining balance to your Fiscal Host. You can access that option by navigating to your Collective's Dasboard > Settings > Advanced**.**
+* Giving the remaining balance to your Fiscal Host. You can access that option by navigating to your Collective's Dasboard > Settings > Advance&#x64;**.**
 
 <figure><img src="../../.gitbook/assets/Untitled design (14).png" alt=""><figcaption></figcaption></figure>
 
