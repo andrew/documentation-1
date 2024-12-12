@@ -156,17 +156,13 @@ Click on the remove ticket text in the top right hand corner&#x20;
 
 Tiers can be utilised within the financial contribution section of your event. This is for people that want to give donations to your event, not purchase tickets.&#x20;
 
-You can choose to turn on Flexible Contributions, Crypto Contributions or Create your own tiers
+You can choose to turn on Flexible Contributions or Create your own tiers
 
 <figure><img src="../.gitbook/assets/collectives_events_tiers_2022-09-13.png" alt=""><figcaption></figcaption></figure>
 
 #### Flexible Contributions&#x20;
 
 A default tier that enables freely customisable contributions, so people can set their own amount and frequency without limitations. You cannot change the settings or description of this tier, but you can disable it.&#x20;
-
-#### Crypto Contributions
-
-Enabling this will enable support for donations with Cryptocurrencies such as Bitcoin or Ethereum collectives\_events\_fixedamount\_2022-09-13
 
 #### Create your own tiers
 

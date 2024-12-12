@@ -19,7 +19,7 @@ Then the expense can be paid out.
 
 ### What payment methods do you support for withdrawals?
 
-Right now, we only support PayPal and TransferWise for one-click payouts through the platform. You can manually record any money that you receive or send outside of the Open Collective platform \(e.g. bank transfer, cryptocurrency, cash, etc\). In the future, we hope to build other payout methods into the platform.
+Right now, we only support PayPal and TransferWise for one-click payouts through the platform. You can manually record any money that you receive or send outside of the Open Collective platform \(e.g. bank transfer, cash, etc\). In the future, we hope to build other payout methods into the platform.
 
 ### How do I pay out Expenses with PayPal?
 
